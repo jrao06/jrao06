@@ -7,7 +7,11 @@
 
 - 📫 How to reach me **jayrao@asu.edu**
 
-- ⚡ Fun fact **Always curious, always building**
+- 📡 Researching **phased array antenna systems for beamforming and radar applications**
+
+- 🔭 Currently researching **FPGA-based systems for embedded and edge computing applications**
+
+- ⚡ Fun fact **I have a huge passion for drumming!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
