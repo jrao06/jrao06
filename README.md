@@ -5,11 +5,11 @@
 
 - 🌱 I'm currently learning **new technologies and expanding my skill set**
 
-- 📫 How to reach me **jayrao@asu.edu**
-
 - 📡 Researching **phased array antenna systems for beamforming and radar applications**
 
 - 🔭 Currently researching **FPGA-based systems for embedded and edge computing applications**
+
+- 📫 How to reach me **jayrao@asu.edu**
 
 - ⚡ Fun fact **I have a huge passion for drumming!**
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/jayraor6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay-rao" height="30" width="40" /></a>
 <a href="https://instagram.com/jaybird06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay-rao" height="30" width="40" /></a>
-<a href="https://discord.gg/jaybird0953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jay-rao" height="30" width="40" /></a>
+<a href="https://discord.gg/users/jaybird0953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jay-rao" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
