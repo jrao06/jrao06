@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Rao</h1>
-<h3 align="center">I am an electrical engineer based in California</h3>
+<h3 align="center">I am an Electrical Engineer based in California</h3>
 
 - 🔧 I'm passionate about **Electrical Engineering**
 
