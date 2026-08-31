@@ -5,9 +5,7 @@
 
 - 🌱 I'm currently learning **new technologies and expanding my skill set**
 
-- 📡 Researching **phased array antenna systems for beamforming and radar applications**
-
-- 🔭 Currently researching **FPGA-based systems for embedded and edge computing applications**
+- 🔭 Currently researching **FPGA Design for gathering space telemetry data**
 
 - 📫 How to reach me **jayrao@asu.edu**
 
